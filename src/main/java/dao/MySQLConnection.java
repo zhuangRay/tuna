@@ -17,7 +17,7 @@ public class MySQLConnection {
 
 
 	static {
-		ResourceBundle jdbcBundle = ResourceBundle.getBundle("service.mysql_jdbc");
+		ResourceBundle jdbcBundle = ResourceBundle.getBundle("dao.mysql_jdbc");
 		
 		driver = jdbcBundle.getString("jdbc.driver");
 		//System.out.println(driver);

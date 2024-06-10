@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+
+      /* 共用css*/
+      body{font-family:  Arial, "文泉驛正黑", "WenQuanYi Zen Hei", "儷黑 Pro", 
+	 "LiHei Pro", "微軟正黑體", "Microsoft JhengHei", "標楷體", DFKai-SB, sans-serif;}
+	  article{min-height:70vh }
+	 #welcomeSpan{float:right;}
+	  #welcomeSpan img{width:22px;float:right;}
+	 /*共用css end*/
+	 
+	 #tunaImg{width:95px;position: absolute; top: -2px;left: 250px; z-index: 6;	}
+	 
+	
+	  body{background:#f3f3f1;}
+	  
+	  	a{text-decoration: none;color:#00aeae;font-weight:bold;}/*共用css*//*連結底線*/
+	    a:hover{text-decoration: underline;}/*共用css*//*連結底線*/
+	  	body{background:#f3f3f1;margin:0px;color:#b99b74;font-weight:bold;}/*共用css*/
